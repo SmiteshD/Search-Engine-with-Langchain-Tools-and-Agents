@@ -1,6 +1,6 @@
-# Chat_Engine🔍 - Search with Chat
+# # Search Engine 🔍-with Langchain Tools and Agents
 
-Chat_Engine is an AI-powered search assistant that combines conversational capabilities with powerful search tools like DuckDuckGo, Arxiv, and Wikipedia. The app is built using **Streamlit** and **LangChain**, enabling users to interact with a chatbot that retrieves precise and relevant information.
+This is a Chat_Engine with AI-powered search assistant that combines conversational capabilities with powerful search tools like DuckDuckGo, Arxiv, and Wikipedia. The app is built using **Streamlit** and **LangChain Tools and Agents**, enabling users to interact with a chatbot that retrieves precise and relevant information.
 
 ---
 
@@ -42,10 +42,10 @@ streamlit run app.py
 ```
 
 ## 🌟 How to Use
-API Key: Enter your Groq API Key in the sidebar settings to activate the chatbot.
-Start Chatting: Enter your query in the chat input field (e.g., "What is machine learning?").
-Explore Results: The chatbot will provide responses by combining results from:
-DuckDuckGo (Web Search)
-Arxiv (Research Summaries)
-Wikipedia (Topic Information)
+API Key: Enter your Groq API Key in the sidebar settings to activate the chatbot.\
+Start Chatting: Enter your query in the chat input field (e.g., "What is machine learning?").\
+Explore Results: The chatbot will provide responses by combining results from:\
+DuckDuckGo (Web Search)\
+Arxiv (Research Summaries)\
+Wikipedia (Topic Information)\
 Interactive Conversations: Enjoy dynamic, real-time responses with context retention.
